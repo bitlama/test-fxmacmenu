@@ -11,7 +11,7 @@ import javafx.scene.control.MenuItem;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 
-public class MenuDebug extends Application {
+public class JavaFXApplication extends Application {
 
     public static void main(String[] args) {
         launch(args);
